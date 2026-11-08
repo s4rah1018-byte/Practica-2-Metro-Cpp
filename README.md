@@ -2,6 +2,7 @@ Practice 2 — Languages and Paradigms of Computation
 
 Integrantes:
 Luisa Maria Acevedo Agudelo
+
 Sara Valenthyna Echeverry Panesso
 
 Descripción del proyecto
